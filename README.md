@@ -19,4 +19,5 @@ Of course, you can go with it disabled, just recalibrate the emission value as y
 <img width="773" alt="enable_subtrate" src="https://github.com/baiyanghor/HLSL_Avatar_Seeds/assets/22685081/1c2abc7d-12d4-43e1-9473-93181ecc3638">
 
 
-The core HLSL code is copied out as in file avatar_seed_hlsl_v001.02.hlsl, you can past it into your custom node in the material editor, then connect your input refers to the network like unreal_content\AvatarSeed\Materials\M_AvatarSeed.uasset
+The core HLSL code is copied out as in file avatar_seed_hlsl_v001.02.hlsl, you can past it into your custom node in the material editor, then connect your input refers to the network like unreal_content\AvatarSeed\Materials\M_AvatarSeed.uasset.
+The Niagara System in the scene is unreal_content\AvatarSeed\NS_AvatarSeeding.uasset.
