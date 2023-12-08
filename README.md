@@ -2,7 +2,8 @@
 Finally, got something to return to the community, This is the technical demo I have done as the practice of HLSL and Niagara system in Unreal Engine.
 
 The seeds are an HLSL code generated 3D pattern with ray marching trick, plug it into sprite material for niagara particles. the dust was implemented with spawn particles from sampled particles from another seed emitter.
-
+Final Render link
+https://youtu.be/MueT1ZV6o7I
 
 ![Comp_01_18_0030](https://github.com/baiyanghor/HLSL_Avatar_Seeds/assets/22685081/f4ef476a-6381-404b-97ae-285b947aeaef)
 
