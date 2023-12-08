@@ -1,4 +1,14 @@
-# HLSL_Avatar_Seeds
+# HLSL Avatar Seeds
+Finally, got something to return to the community, This is the technical demo I have done as the practice of HLSL and Niagara system in Unreal Engine
+
+The seeds are an HLSL code generated 3D pattern with ray marching trick, plug it into sprite material for niagara particles. the dust was implemented with spawn particles from sampled particles from another seed emitter.
+
+
+![Comp_01_18_0030](https://github.com/baiyanghor/HLSL_Avatar_Seeds/assets/22685081/f4ef476a-6381-404b-97ae-285b947aeaef)
+
+![AvatarSeedMimic_Operation_MaterialEditor](https://github.com/baiyanghor/HLSL_Avatar_Seeds/assets/22685081/c66ba097-9dbf-4e4f-bc86-ee0948a1d098)
+
+
 To use this Avatar Pandora like asset, just copy the folder AvatarSeed into a content directory of your unreal engine 5.3 project.
 
 The level is just the Electronic Dreams project of Epic Games PCG tech demo.
