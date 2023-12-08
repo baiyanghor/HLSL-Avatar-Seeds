@@ -11,7 +11,7 @@ The seeds are an HLSL code generated 3D pattern with ray marching trick, plug it
 
 To use this Avatar Pandora like asset, just copy the folder AvatarSeed into a content directory of your unreal engine 5.3 project.
 
-The level is just the Electronic Dreams project of Epic Games PCG tech demo.
+The level is just the Electric Dreams project of Epic Games PCG tech demo.
 
 Ensure your project setting with substrate material enabled, because I adjusted the color and emissive amount in the new mechanism.
 Of course, you can go with it disabled, just recalibrate the emission value as you like, the HLSL code does not depend on it.
