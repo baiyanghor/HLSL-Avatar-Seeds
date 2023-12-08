@@ -20,4 +20,5 @@ Of course, you can go with it disabled, just recalibrate the emission value as y
 
 
 The core HLSL code is copied out as in file avatar_seed_hlsl_v001.02.hlsl, you can past it into your custom node in the material editor, then connect your input refers to the network like unreal_content\AvatarSeed\Materials\M_AvatarSeed.uasset.
+
 The Niagara System in the scene is unreal_content\AvatarSeed\NS_AvatarSeeding.uasset.
